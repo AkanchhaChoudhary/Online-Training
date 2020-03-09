@@ -1,0 +1,9 @@
+*.npy
+.DS_Store
+__pycache__
+.idea
+*.pyc
+checkpoints
+venv/
+Data/
+.git/

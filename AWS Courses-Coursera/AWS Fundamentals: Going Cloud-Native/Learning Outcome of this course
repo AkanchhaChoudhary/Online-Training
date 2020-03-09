@@ -1,0 +1,14 @@
+TASK I PERFORMED THROUGHOUT THIS COURSE:👇️
+
+This course  introduced me to Amazon Web Services (AWS) core services and infrastructure. Through demonstrations I learnt how to use and configure AWS services to deploy and host a cloud-native application. 
+
+Early in the course, my AWS instructors  discussed how the AWS cloud infrastructure is built, walked me through Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Lightsail compute services. I was also introduced  to networking on AWS, including how to set up Amazon Virtual Public Cloud (VPC) and different cloud storage options, including Amazon Elastic Block Storage (EBS), Amazon Simple Storage Service (S3) and Amazon Elastic File Service (EFS). Later in the course I learnt le about AWS Database services, such as Amazon Relational Database Service (RDS) and Amazon DynomoDB. The instructors  also introduced me through how to monitor and scale my application on AWS using Amazon CloudWatch and Amazon EC2 Elastic Load Balancing (ELB) and Auto Scaling. Lastly, I learnt l about security on AWS, as well as how to manage costs when using the AWS cloud platform. 
+
+In this course, it was not required to complete hands-on exercises, but  strongly suggested me take advantage of the AWS Free Tier which I did to follow along as the instructors demonstrated the AWS services. Class forums will also helped me to ask questions and interact with AWS training instructors which was very useful. After completing this course, I got the basic fundamentals to get started on AWS. 
+
+
+WHAT I LEARNT:👇️
+
+1.Learn AWS fundamental concepts including Regions, Availability Zones, and Virtual Private Clouds (VPCs)
+2.Learn how to use AWS compute, storage, database, and security services via the AWS Console
+3.How to make an applications durable, distributed, and highly available
