@@ -1,0 +1,19 @@
+import urllib
+from BeautifulSoup import *
+
+url = raw_input('Enter your start url:')
+co = raw_input('Enter your count:')
+posi = raw_input('Enter your position:')
+
+for i in range(int(co)):
+	html = urllib.urlopen(url).read()
+	soup = BeautifulSoup(html)
+	tags = soup('a')
+	number = 0
+	for tag in tags:
+		number += 1
+		if number == int(posi):
+			url = tag.get('href')
+			if i == int(co)-1:
+				print tag.contents[0]
+			break
