@@ -1,0 +1,22 @@
+ABOUT THIS COURSE:
+
+
+This second course of the Blockchain specialization was helpful to design, code, deploy and execute a smart contract – the computational element of the blockchain technology. Smart contracts allow for implementing user-defined operations of arbitrary complexity that are not possible through plain cryptocurrency protocols. They allow users to implement conditions, rules and policies of the domain applications. Smart contracts are a powerful feature that, when properly designed and coded, can result in autonomous, efficient and transparent systems. 
+
+I designed and programed smart contracts in Solidity language, test and deploy them in the Remix development environment, and invoked them from a simple web interface that Remix provides. This course features best practices for designing solutions with smart contracts using Solidity and Remix IDE.
+
+WHAT I LEARNT:
+
+1.Smart Contract Basics
+2.Solidity
+3.Putting it all Together
+4.Best Practices
+5.Design, code, deploy and execute a smart contract.
+
+SKILLS DEVELOPED:
+
+1.Cryptocurrency
+2.Blockchain
+3.Solidity
+4.Smart Contract
+5.Remix IDE

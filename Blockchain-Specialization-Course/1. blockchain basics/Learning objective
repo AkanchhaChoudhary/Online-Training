@@ -1,0 +1,27 @@
+ABOUT THE COURSE:
+
+This first course of the Blockchain specialization provides a broad overview of the essential concepts of blockchain technology – by initially exploring the Bitcoin protocol followed by the Ethereum protocol – to lay the foundation necessary for developing applications and programming. I was introduced with the knowledge needed to create nodes on your personal Ethereum blockchain, create accounts, unlock accounts, mine, transact, transfer Ethers, and check balances.       
+
+Through this course I learnt about the decentralized peer-to-peer network, an immutable distributed ledger and the trust model that defines a blockchain. This course enabled me to explain basic components of a blockchain (transaction, block, block header, and the chain) its operations (verification, validation, and consensus model) underlying algorithms, and essentials of trust (hard fork and soft fork). Content includes the hashing and cryptography foundations indispensable to blockchain programming, which is the focus of two subsequent specialization courses, Smart Contracts and Decentralized Applications (Dapps). In this course I worked on a virtual machine image, specifically created for this course, to build an Ethereum test chain and operate on the chain. This hands-on activity helped me to understand the workings of a blockchain, its transactions, blocks and mining.
+
+Main concepts were delivered through videos, demos and hands-on exercises.
+
+WHAT I LEARNT:
+
+1.Blockchain Defined
+2.Ethereum Blockchain
+3.Algorithms & Techniques
+4.Trust Essentials
+5.to recognize foundational concepts of blockchain, and apply these program concepts on the blockchain.
+
+
+SKILLS DEVELOPED:
+
+1.Ethereum
+2.Cryptography
+3.Blockchains
+4.Bitcoin
+
+
+
+
