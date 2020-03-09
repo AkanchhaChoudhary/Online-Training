@@ -1,0 +1,37 @@
+1.Probability Definitions and Notation
+2.Joint Probabilities
+3.QUIZ.
+4.Permutations and Combinations.
+5.Using Factorial and “M choose N”
+6.The Sum Rule, Conditional Probability, and the Product Rule
+7.QUIZ
+8.Bayes’ Theorem (Part 1)
+9.Bayes’ Theorem (Part 2).
+10.The Binomial Theorem and Bayes Theorem
+11.QUIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

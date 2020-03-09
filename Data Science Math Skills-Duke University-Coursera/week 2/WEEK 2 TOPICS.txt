@@ -1,0 +1,30 @@
+1.Cartesian Plane - Plotting Points.
+2.Cartesian Plane - Distance Formula.
+3.Cartesian Plane - Point-Slope Formula for Lines.
+4.Cartesian Plane: Slope-Intercept Formula for Lines.
+5.QUIZ.
+6.Functions - Mapping from Sets to Sets.
+7.Functions - Graphing in the Cartesian Plane
+8.Functions - Increasing and Decreasing Functions
+9.Functions - Composition and Inverse
+10.QUIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
