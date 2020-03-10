@@ -1,0 +1,11 @@
+1.Link to All of the Code for Week One.
+2.The Document Object Model (DOM).
+3.DOM Review with Object Oriented Programming.
+4.Trying to Create and Debug Your Own Output.
+5.variables.
+6.Data types.
+6.Operators and Expressions.
+7.Assessment.
+
+
+

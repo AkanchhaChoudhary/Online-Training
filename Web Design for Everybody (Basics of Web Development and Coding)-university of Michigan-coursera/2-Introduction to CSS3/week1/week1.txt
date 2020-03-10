@@ -1,0 +1,11 @@
+1.Building my first web page
+2.cascading style sheets
+3.colors
+4.stying the text.
+5.code practice
+6.display and visibility.
+7.code placements
+8.styling syntax and theory
+9.homework
+10.peer review
+11.Assignmnts.

@@ -1,0 +1,13 @@
+1.Link to all of the code for week three.
+2.A javascript cheat sheet.
+3.Arrays.
+4.Javascipt Arrays.
+5.coding with arrays.
+6.Advanced coding techniques.
+7.Javascript Iteration.
+8.Flow Of Control.
+9.Code with me-Combining Loops and Conditionals.
+10.Advanced Conditionals.
+11.Common Errors.
+12.Final quiz.
+

@@ -1,0 +1,8 @@
+1.Accesibility.
+2.Validating the site.
+3.Putting my code out on to the web.
+4.Hosting your Site.
+5.cPanel.
+6.Using Secure File Transfer Protocol.
+7.QUIZ-hosting and validation.
+8.Final project

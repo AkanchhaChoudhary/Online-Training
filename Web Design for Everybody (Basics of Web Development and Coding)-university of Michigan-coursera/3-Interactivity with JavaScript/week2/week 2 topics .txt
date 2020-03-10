@@ -1,0 +1,11 @@
+1.Functions
+2.code placement
+3.Organizing the code.
+4.Folder structure/organizing code.
+5.Events.
+6.Mastering Events and functions.
+7"this"
+8.Photo Gallery project.
+
+
+

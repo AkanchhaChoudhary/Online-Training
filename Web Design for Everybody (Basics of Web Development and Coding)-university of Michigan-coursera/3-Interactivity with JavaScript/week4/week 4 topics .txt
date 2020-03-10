@@ -1,0 +1,18 @@
+1.Introduction to Forms
+2.simple forms.
+3.Simple Validation
+4.Comparing Two Inputs.
+5.Checkboxes and Radio Buttons.
+6.Using Forms on Your Site
+7.Assessment
+
+
+
+
+
+
+
+
+
+
+

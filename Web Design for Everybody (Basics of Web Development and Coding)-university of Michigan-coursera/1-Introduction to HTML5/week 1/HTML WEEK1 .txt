@@ -1,0 +1,6 @@
+1.Welcome to Introduction to HTML.
+2.Evolution of HTML.
+3.The origins of MOSAIC.
+4.The magic of page requests.
+5.How to use an editor to create an HTML.
+6.QUIZ.

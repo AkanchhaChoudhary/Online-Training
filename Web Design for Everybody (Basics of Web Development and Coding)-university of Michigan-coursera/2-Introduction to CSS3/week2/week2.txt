@@ -1,0 +1,10 @@
+1.Resources.
+2.Box Model.
+3.code practice
+4.styling links and lists.
+5.advanced selectors.
+6.browser capabilities.
+7.Browsers.
+8.Background Images nad Opacity.
+9.the importance of headings.
+10.QUIZ.
