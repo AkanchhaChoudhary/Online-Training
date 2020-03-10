@@ -1,0 +1,105 @@
+---
+title: "Exploring the BRFSS data"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    theme: spacelab
+---
+
+## Setup
+
+### Load packages
+
+```{r load-packages, message = FALSE}
+library(ggplot2)
+library(dplyr)
+```
+
+### Load data
+
+Make sure your data and R Markdown files are in the same directory. When loaded
+your data file will be called `brfss2013`. Delete this note when before you submit 
+your work. 
+
+```{r load-data}
+load("brfss2013.RData")
+```
+
+
+
+* * *
+
+## Part 1: Data
+The Survey was initiated in 1984, with 15 states collecting surveillance data on risk behaviors through monthly telephone interviews. Over time, the number of states participating in the survey increased; by 2001, 50 states, the District of Columbia, Puerto Rico, Guam, and the US Virgin Islands were participating in the BRFSS.
+This  sample shows the willingness of people o anwer the phone call and support in such long survey which makes the case a non-response bias; 
+
+However it is not a huge representation of the general population, but the sample
+size is useful to find statistical significance to even small differences.
+
+
+For computing capabilities, we will refer to the data collected in the state
+of California only. 
+* * *
+
+## Part 2: Research questions
+
+**Research quesion 1:**
+*What are the statistical features of the 
+estimated age-gender specific maximum oxygen consumption? Does it follow a
+normal distribution?*
+For this e will use following variable:`$maxvo2_` for continuous in m1/min/kg
+
+**Research quesion 2:** *Is there any correlation exist between the hours slept 
+each night and reported days with poor physical health or poor mental health
+in the last 30 days?*
+Follwing variables is used:
+`sleptim1` as explanatory variable which is in hours.
+`physhlth` and `menthlth` as response variables which is in days.
+
+
+**Research quesion 3:**
+*Is there any correlation  between the body mass index
+(BMI) of the individual answering the survey and having a high blood
+cholesterol or having a heart attack?*
+Following variable being used:
+`_bmindex1` which being used as explanatory variables and is continuous.
+
+`abcde2` and `fghi3` being used as responsive variables and is discrete.
+
+* * *
+
+## Part 3: Exploratory data analysis
+
+NOTE: Insert code chunks as needed by clicking on the "Insert a new code chunk" 
+button (green button with orange arrow) above. Make sure that your code is visible
+in the project you submit. Delete this note when before you submit your work.
+
+**Research quesion 1:**
+*What are the statistical features of the 
+estimated age-gender specific maximum oxygen consumption? Does it follow a
+normal distribution?*
+
+The last two digits of this variable are implied decimal places, before doing 
+anything this corrects to the units: `ml/min/kg`
+
+```{r maxvo2.1}
+df$maxvo2_ = as.numeric(df$maxvo2_)/100
+```
+
+
+
+**Research quesion 2:**
+
+```{r}
+
+```
+
+
+
+**Research quesion 3:**
+
+```{r}
+
+```
+
