@@ -1,0 +1,19 @@
+1.what is Machine Learning.
+2.Classification of Machine learning
+    a.supervised Learning.
+       a1.Regression Problem.
+       a2.Classification problem.
+    b.Unsupervised Learning.
+3.Lecture slides
+4.Model Representation.
+5.Cost Function.-Intution 1.
+6.Cost Function- Intution 2.
+7.Gradient Descent .
+8.Gradient Descent Intution.
+9.Gradient Descent for Linear Regression.
+10.Linear Regression wih One variable.
+11.Matrices and Variable.
+12.Addition an scalar Multiplication.
+13.Matrix Vector Multiplication.
+14.Inverse and Transpose.
+15.QUIZ-Linear Algebra.
