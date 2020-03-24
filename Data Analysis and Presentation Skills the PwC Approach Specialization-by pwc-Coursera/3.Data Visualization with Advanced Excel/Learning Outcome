@@ -1,0 +1,60 @@
+
+ABOUT THE COURSE:
+In this course, Hands-on instruction of advanced Excel 2013 functions was given.  I learnt how to use PowerPivot to build databases and data models. I was also shown how to perform different types of scenario and simulation analysis and was given an opportunity to practice these skills by leveraging some of Excel's built in tools including, solver, data tables, scenario manager and goal seek.  In the second half of the course,  learnt how to visualize data, tell a story and explore data by reviewing core principles of data visualization and dashboarding.  I used Excel to build complex graphs and Power View reports and then start to combine them into dynamic dashboards.
+
+
+COURSE GOALS AND LEARNING OBJECTIVES:
+
+Week 1: Preparing a Professional Excel
+
+Identify the guiding principles for effectively using Excel
+Identify the basic components of a data set
+Define a relational database
+Identify when you would use a relational database
+Recall how data models function within a database
+Enable PowerPivot in Excel
+Create a table in Excel
+Create a relational data model using PowerPivot
+Build a PivotTable using PowerPivot and a relational data model
+Visualize data across multiple data sources using PivotCharts
+Create and store calculated fields in PowerPivot
+Create PowerPivots and PowerCharts using calculated fields
+Create PowerPivots and PowerCharts using multiple data tables and filters
+
+Week 2: Advanced Scenario Analysis
+
+Differentiate between Scenario Analysis, Sensitivity Analysis and Simulation
+Identify tools in Excel that perform “what if” analyses when building spreadsheet models
+Determine what variable is needed to achieve end results using Goal Seek
+Determine the optimal solution to a problem using Solver
+Recognize different values for variables and compare results using Scenario Manager
+Recognize the range of outcomes for a given range of a variable input using a one-way data table
+Determine the range of outcomes under two variables using a two-way data table
+Simulate multiple outcomes for a given objective using Excel
+
+Week 3: Data Visualization
+
+Recall the importance of data visualization
+Identify the key principles of design for building a chart, table and graph
+Differentiate between effective and ineffective charts, tables and graphs
+Identify five types of charts in Excel
+Determine the appropriate chart to use to display the data with a data set
+Create the following types of charts in Excel: Bar or column chart, combination line and bar chart, gantt chart, heatmap and 100% stacked chart
+
+Week 4: Dashboarding
+
+Define the term dashboarding
+Recall examples of how dashboards are used in a business environment
+Identify the benefits of using a dashboard
+Differentiate between the three types of dashboards (Executive, Analytical, and Operational)
+Recall the five principles of design for creating a dashboard
+Create interactive dashboard components in Excel, including Form Controls, Group Boxes, Slicers and PowerPivot using Form Controls and Group Boxes
+Build an interactive Key Performance Indicator, or KPI, using Excel’s Form Controls, Conditional Formatting, and IF formulas
+Demonstrate using the camera tool
+Hide elements of Excel’s user display to present the user with a clean dashboard
+
+SKILLS GAINED:
+1.Dashboard (Business)
+2.Microsoft Excel
+4.Data Virtualization
+5.Data Visualization (DataViz)
