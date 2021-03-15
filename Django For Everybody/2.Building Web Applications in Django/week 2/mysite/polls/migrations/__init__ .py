@@ -3,9 +3,9 @@
 <html lang="en" style="height: 100%">
     <head>
         <meta charset="utf-8">
-        <title>__init__.py : /home/akanchhachoudhary/django_projects/mysite/polls/__init__.py : Editor : akanchhachoudhary : PythonAnywhere</title>
+        <title>__init__.py : /home/akanchhachoudhary/django_projects/mysite/polls/migrations/__init__.py : Editor : akanchhachoudhary : PythonAnywhere</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="__init__.py : /home/akanchhachoudhary/django_projects/mysite/polls/__init__.py : Editor : akanchhachoudhary : PythonAnywhere">
+        <meta name="description" content="__init__.py : /home/akanchhachoudhary/django_projects/mysite/polls/migrations/__init__.py : Editor : akanchhachoudhary : PythonAnywhere">
         <meta name="author" content="PythonAnywhere LLP">
         <meta name="google-site-verification" content="O4UxDrfcHjC44jybs2vajc1GgRkTKCTRgVzeV6I9V14" />
 
@@ -20,7 +20,7 @@
         <script type="text/javascript">
             var Anywhere = {};
             Anywhere.urls = {};
-            Anywhere.csrfToken = "9i6DYXHIhoEyQvDsLgBD9PKy3vZgHOLZaq4lMBxjJmD1u8rSxSGk8qZ3fbXJdbUJ";
+            Anywhere.csrfToken = "idRBL9jxNhrwWmrrWOUlYNedv5L9SXLBjlPjzN98ffqZAZfRIqZ2XotIHLJCokUl";
         </script>
         <script type="text/javascript" src="/static/CACHE/js/output.2cfbe82d52cd.js"></script>
         
@@ -30,12 +30,12 @@
     <script type="text/javascript">
       $(document).ready(function() {
         $.extend(Anywhere.urls, {
-          file: "/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite/polls/__init__.py",
-          check_hash: "/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite/polls/__init__.py",
+          file: "/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite/polls/migrations/__init__.py",
+          check_hash: "/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite/polls/migrations/__init__.py",
           update_editor_mode_preference: "/user/akanchhachoudhary/account/update_editor_mode_preference",
           console_api: "/api/v0/user/akanchhachoudhary/consoles/",
         });
-        var filename = "/home/akanchhachoudhary/django_projects/mysite/polls/__init__.py";
+        var filename = "/home/akanchhachoudhary/django_projects/mysite/polls/migrations/__init__.py";
         var hash = "d41d8cd98f00b204e9800998ecf8427e";
         var interpreter = "python3.8";
 
@@ -52,8 +52,8 @@
           $('#id_file_sharing_options')[0],
           {
             url: "/api/v0/user/akanchhachoudhary/files/sharing/",
-            csrfToken: "9i6DYXHIhoEyQvDsLgBD9PKy3vZgHOLZaq4lMBxjJmD1u8rSxSGk8qZ3fbXJdbUJ",
-            path: "/home/akanchhachoudhary/django_projects/mysite/polls/__init__.py"
+            csrfToken: "idRBL9jxNhrwWmrrWOUlYNedv5L9SXLBjlPjzN98ffqZAZfRIqZ2XotIHLJCokUl",
+            path: "/home/akanchhachoudhary/django_projects/mysite/polls/migrations/__init__.py"
           }
         );
 
@@ -86,7 +86,7 @@
   <div id="id_editor_toolbar">
 
     <div class="pull-left">
-      <span id="id_breadcrumbs_div"><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/">/</a><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home">home</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary">akanchhachoudhary</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects">django_projects</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite">mysite</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite/polls">polls</a><span class="breadcrumb_entry">/</span><wbr><span class="breadcrumb_entry breadcrumb_terminal">__init__.py</span></span>
+      <span id="id_breadcrumbs_div"><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/">/</a><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home">home</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary">akanchhachoudhary</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects">django_projects</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite">mysite</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite/polls">polls</a><span class="breadcrumb_entry">/</span><a class="breadcrumbs_link breadcrumb_entry" href="/user/akanchhachoudhary/files/home/akanchhachoudhary/django_projects/mysite/polls/migrations">migrations</a><span class="breadcrumb_entry">/</span><wbr><span class="breadcrumb_entry breadcrumb_terminal">__init__.py</span></span>
 
       <span>
         <span id="id_unsaved_changes_spacer">
@@ -185,7 +185,7 @@
   <li class=""><a href="/user/akanchhachoudhary/account/" class="account_link">Account</a></li>
   <li class="">
     <form action="/logout/" method="POST">
-      <input type='hidden' name='csrfmiddlewaretoken' value='9i6DYXHIhoEyQvDsLgBD9PKy3vZgHOLZaq4lMBxjJmD1u8rSxSGk8qZ3fbXJdbUJ' />
+      <input type='hidden' name='csrfmiddlewaretoken' value='idRBL9jxNhrwWmrrWOUlYNedv5L9SXLBjlPjzN98ffqZAZfRIqZ2XotIHLJCokUl' />
       <button type="submit" class="btn-link logout_link">Log out</button>
     </form>
   </li>
