@@ -1,0 +1,1 @@
+function __markMeasure(e,n){if("function"==typeof window.performance.mark){var o=window.performance.mark(n);window.__MARK&&window.performance.measure("MODE."+e,window.__MARK.name,n),window.__MARK=o}}"function"==typeof window.performance.mark&&(window.__MARK=window.performance.mark("mode.webapp_ui.resource.js.start"));
